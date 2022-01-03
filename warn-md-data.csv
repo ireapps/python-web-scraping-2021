@@ -1,0 +1,41 @@
+warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_code
+1/5/2021,812331,ALSCO,"4900 Philadelphia Way Lanham, MD 20706",8,21,12/15/2020,2
+1/6/2021,452210,Macy's,"4101 Branch Avenue Marlow Heights, MD 20748",8,81,3/14/2021,1
+1/6/2021,721120,MGM National Harbor,"101 MGM National Avenue Oxon Hill, MD 20745",8,518,12/16/2020,2
+1/11/2021,722320,Ridgewells,"5525 Dorsey Lane Bethesda, MD 20816",7,278,1/15/2021,2
+1/15/2021,722310,Sodexo Johns Hopkins Hospital,"600 North Wolfe Street Baltimore, MD 21287",3,55,3/1/2021,2
+1/22/2021,812990,Instacart,"Giant Food 7142 Arlington Road Bethesda, MD 20814",7,17,3/21/2021,2
+2/18/2021,424490,Sunfood Corporation,"140 Western Maryland Pkwy Hagerstown, MD 21740",12,3,3/15/2021,1
+2/23/2021,561599,"AAA Club Alliance, Inc.","8245F Dickerson Lane Salisbury, MD 21804",5,6,3/28/2021,1
+3/24/2021,221112,"GenOn Energy Services, LLC","25100 Chalk Point Road Aquasco, MD 20608",8,57,6/1/2021,2
+4/9/2021,561599,"AAA Club Alliance, Inc.","1019 York Road Towson, MD 21204",2,12,7/1/2021,1
+4/13/2021,441310,Auto Plus Auto Parts,"9909 Pulaski Highway Middle River, MD 21220",2,16,6/13/2021,1
+4/13/2021,441310,Auto Plus Auto Parts,"1739 E. Joppa Road Baltimore, MD 21234",2,4,6/13/2021,1
+4/23/2021,541512,"PAE Shared Services, LLC","23013 Cedar Point Road Bldg. 2118 Patuxent River, MD 20670",9,198,6/12/2021,2
+4/23/2021,541512,"PAE Shared Services, LLC","48542 Haney Road Bldg. 2657 Patuxent River, MD 20670",9,56,6/12/2021,2
+4/23/2021,623110,Maria Health Care Center,"5401 N. Charles Street Baltimore, MD 21212",3,31,6/22/2021,1
+4/29/2021,541711,BioReliance Corporation,"14920 Broschart Road Rockville, MD 20850",7,99,7/2/2021,1
+4/29/2021,488119,Menzies Aviation,"1001 Aviation Boulevard Suite 2400 Baltimore, MD 21240",1,25,6/30/2021,2
+5/17/2021,337121,Kimball David Edward,"1407 Parker Road Baltimore, MD 21227",2,75,5/21/2021,1
+5/19/2021,484110,"Kuehne & Nagel, Inc.","1100 Woodley Road Aberdeen, MD 21001",10,100,7/31/2021,1
+5/19/2021,541614,"Eclipse Advantage, LLC","1100 Woodley Road Aberdeen, MD 21001",10,46,7/19/2021,1
+5/20/2021,551112,"T.Rowe Price Group, Inc.","4515 Painters Mill Road Owings Mills, MD 21117",2,11,7/31/2021,2
+5/26/2021,561720,ABM Industries,"815 E Pratt Street Baltimore, MD 21202",3,9,5/1/2021,2
+5/26/2021,561720,ABM Industries,"655 Watkins Mill Road Gaithersburg, MD 20879",7,9,5/1/2021,2
+5/26/2021,561720,ABM Industries,"10810 Connecticut Avenue Kensington, MD 20895",7,9,5/1/2021,2
+5/26/2021,561720,ABM Industries,"1221 Mercantile Lane Upper Marlboro, MD 20774",8,9,5/1/2021,2
+8/24/2021,311422,Hanover Foods Corporation,"502 Factory Lane Ridgely, MD 21660",11,37,11/15/2021,1
+8/31/2021,623110,Ascension Health Senior Care d/b/a Ascension Living,"331 S. Seton Avenue Emmitsburg, MD 21727",4,100,10/29/2021,1
+8/30/2021,443142,Best Buy,"7000 Arundel Mills Circle Hanover, MD 21076",1,47,10/30/2021,1
+9/15/2021,484121,"ShoTime Logistics, LLC","7890 WB&A Rd Severn, MD 21144",1,74,11/9/2021,1
+9/24/2021,324191,"BP Lubricants USA, Inc.","9300 Pulaski Highway Baltimore, MD 21220",2,33,7/29/2021,2
+9/24/2021,623210,Aspire Living & Learning,"2109 Laurel Bush Road Bel Air, MD 21015",10,27,11/23/2021,1
+10/22/2021,522110,Wells Fargo,"7175 Columbia Gateway Drive Columbia, MD 21046",6,30,12/19/2021,2
+11/2/2021,325180,Imerys Carbonate USA,"10000 Beaver Dam Road Cockeysville, MD 21030",2,40,1/31/2022,1
+11/4/2021,721110,"Marriott Hotel Services, Inc.","6711 Democracy Boulevard Bethesda, MD 20817",7,52,1/31/2022,2
+11/30/2021,445110,Price Rite,"5800 Silver Hill Road District Heights, MD 20747",8,36,12/30/2021,1
+12/1/2021,452210,Gabriel Brothers,"3430 Emmorton Road Abingdon, MD 21009",10,61,1/1/2022,2
+12/2/2021,541611,Wisetek Solutions,"3200 Hubbard Road Hyattsville, MD 20785",8,38,2/2/2022,1
+12/3/2021,511110,"The Baltimore Sun Company, LLC","300 East Cromwell Street Baltimore, MD 21230",3,139,1/30/2022,2
+12/8/2021,446110,AIS Healthcare,"10 Warren Road #220 Hunt Valley, MD 21030",2,23,2/8/2022,2
+12/9/2021,442299,Crate & Barrel,"825 Dulaney Valley Road Towson, MD 21204",2,37,2/7/2022,1
